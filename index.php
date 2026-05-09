@@ -2,13 +2,15 @@
 /*
  * Plugin Name:       Wonolog as plugin
  * Description:       Install `Wonolog` as a plugin.
- * Version:           3.0.2+0
+ * Version:           3.0.2+1
  * Requires at least: 5.9
  * Requires PHP:      8.1
  * Author:            Itou Kousuke
  * Author URI:        mailto:chrono-meter@gmx.net
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: https://github.com/chrono-meter/wonolog-as-plugin
+ * Update URI:        https://github.com/chrono-meter/wonolog-as-plugin
  */
 
 // Check another "wonolog" instance is already set up.
